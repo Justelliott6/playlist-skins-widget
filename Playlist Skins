@@ -1,0 +1,36 @@
+<!-- Rock 101 Boombox + Spotify -->
+<div style="
+  position:relative;
+  width:900px;
+  margin:40px auto;
+">
+
+  <!-- Background image -->
+  <img
+    src="https://primary.jwwb.nl/public/g/u/b/temp-lwmvpgonevezulioxwug/untitled-design-high.png"
+    alt="Bring Back Rock 101 boombox"
+    style="display:block;width:100%;border-radius:12px;"
+  >
+
+  <!-- Spotify playlist inside the tuner -->
+  <div style="
+    position:absolute;
+    top:138px;      
+    left:120px;
+    width:660px;
+    height:62px;   
+    overflow:hidden;
+    border-radius:6px;
+  ">
+    <iframe
+      src="https://open.spotify.com/embed/playlist/401qeQU1VZfCtuGC3YBR1N?utm_source=generator"
+      width="100%"
+      height="100%"
+      frameborder="0"
+      allow="autoplay; clipboard-write; encrypted-media;"
+      loading="lazy"
+      style="background:transparent;"
+    ></iframe>
+  </div>
+
+</div>
